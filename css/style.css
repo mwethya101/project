@@ -1,0 +1,73 @@
+* {
+    margin: 0cm;
+    padding: 0cm;
+}
+header {
+    background-color: black;
+    color: white;
+    justify-content: center;
+    padding: 30px;
+    font-size: x-large;
+}
+nav ul {
+    display:flex;
+    gap: 10rem;
+    list-style: none;
+    justify-content: flex-end;
+}
+nav ul li {
+    align-items: right;
+    gap: 20px;
+}
+.biography {
+    
+    justify-content: center;
+    padding: 20px;
+    font-size: large;
+    
+}
+.section_1 {
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    width: 100%;
+    padding: 60px;
+    height: 200px;
+    background-color: beige;
+    align-items: center;
+}
+img {
+    width: 250px;
+    height: 250px;
+    
+}
+.section_2 {
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    width: 100%;
+    padding: 60px;
+    height: 200px;
+    background-color: beige;
+    align-items: center;
+}
+.section_3 {
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    width: 100%;
+    padding: 60px;
+    height: 200px;
+    background-color: beige;
+    align-items: center;
+}
+.section_4 {
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    width: 100%;
+    padding: 60px;
+    height: 200px;
+    background-color: beige;
+    align-items: center;
+}
