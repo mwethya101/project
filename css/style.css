@@ -28,6 +28,8 @@ nav ul li {
 }
 .introduction{
     justify-content: center;
+    padding: 20px;
+    font-size: large;
 
 }
 .section_1 {
