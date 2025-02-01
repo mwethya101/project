@@ -17,6 +17,8 @@ Open index.html in your web browser
 
 # Live site link
 
+this link will direct you to the website.
+
 https://mwethya101.github.io/project/
 
 # Copyright and license information
