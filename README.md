@@ -14,6 +14,7 @@ A website that showcases my favourite photographs
 
 clone this repository
 Open index.html in your web browser
+fill out the form at the bottom of the website
 
 # Live site link
 
