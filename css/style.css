@@ -27,7 +27,8 @@ nav ul li {
     
 }
 .introduction{
-    
+    justify-content: center;
+
 }
 .section_1 {
     display: flex;
